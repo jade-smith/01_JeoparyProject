@@ -1,4 +1,27 @@
-.game-title{
+.game-title {
+  font-size: x-large;
+  text-align: center;
+  color: #833934;
+}
+
+.game-image{
   text-align: center;
 }
 
+#attribute{
+  font-size: xx-small;
+  text-align: right;
+  padding-right: 23%;
+}
+
+#play-button span{
+  padding-top: 5px;
+  background-color: #833934;
+  font-size: xx-large;
+  color: #F8EFED;
+}
+
+.footer{
+  padding-top: 10%;
+  text-align: center;
+}
