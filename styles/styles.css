@@ -14,10 +14,10 @@
   padding-right: 23%;
 }
 
-#play-button span{
+#play-button span:hover{
   padding-top: 5px;
   background-color: #833934;
-  font-size: xx-large;
+  font-size: 50px;
   color: #F8EFED;
 }
 
