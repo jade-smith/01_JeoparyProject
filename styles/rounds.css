@@ -38,3 +38,18 @@
   font-size: xx-large;
 }
 
+.user-input{
+  display: grid;
+  grid-template: repeat(3, 25%) / repeat(2, 15%);
+  justify-content: center;
+  text-align: center;
+}
+
+.user-input #input-box{
+  grid-column: span 2;
+}
+
+.user-input span{
+  background-color: #ECB3B9;
+  
+}
