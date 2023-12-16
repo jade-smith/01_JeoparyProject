@@ -33,7 +33,13 @@
   border: solid;
 }
 
-.grid-container #question-grid:hover{
+.grid-container #question-grid1{
+  font-size: large;
+  color: #833934;
+  border: solid;
+}
+
+.grid-container #question-grid1:hover{
   font-weight: bold;
   font-size: xx-large;
 }
